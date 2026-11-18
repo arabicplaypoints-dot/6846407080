@@ -1,4 +1,4 @@
-pyTelegramBotAPI
-psutil
-Flask
-requests
+pyTelegramBotAPI>=4.20,<5
+psutil>=5.9,<8
+Flask>=3.0,<4
+requests>=2.31,<3
